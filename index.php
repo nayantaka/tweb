@@ -24,6 +24,7 @@
 			Kami menawarkan jasa catering untuk berbagai acara seperti ulang tahun, acara peresmian, pesta keluarga, pesta pernikahan dan dan acara-acara besar perusahaan.
 		</p>
 		</div>
+		<div class="bersih"></div>
 	</div>
 </body>
 </html>
